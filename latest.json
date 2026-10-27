@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/bastian-weissmueller/dartscounter-releases/releases/download/v1.3/dartscounter-1.3.apk",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/bastian-weissmueller/dartscounter-releases/releases/download/v1.4/dartscounter-1.4.apk",
   "minVersionCode": 0,
-  "notes": "- Auto-Update eingeführt\n- Diverse Verbesserungen"
+  "notes": "- Test des Auto-Updates\n- Spielerauswahl: Hintergrund jetzt gruen"
 }
