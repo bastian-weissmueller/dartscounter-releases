@@ -1,0 +1,7 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/bastian-weissmueller/dartscounter-releases/releases/download/v1.3/dartscounter-1.3.apk",
+  "minVersionCode": 0,
+  "notes": "- Auto-Update eingeführt\n- Diverse Verbesserungen"
+}
